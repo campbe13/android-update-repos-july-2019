@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"/>
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <Button
+        android:id="@+id/english"
+        android:tag="en"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="changeLang"
+        android:text="@string/english" />
+    <Button
+        android:id="@+id/french"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="changeLang"
+        android:tag="fr"
+        android:text="@string/french" />
+    <Button
+        android:id="@+id/italian"
+        android:tag="it"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="changeLang"
+        android:text="@string/italian" />
+    <Button
+        android:id="@+id/german"
+        android:tag="de"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="changeLang"
+        android:text="@string/german" />
+    <Button
+        android:id="@+id/spanish"
+        android:tag="es"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="changeLang"
+        android:text="@string/spanish" />
+
+    <TextView
+        android:id="@+id/tv3"
+        android:paddingTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/language"
+        />
+
+</LinearLayout>

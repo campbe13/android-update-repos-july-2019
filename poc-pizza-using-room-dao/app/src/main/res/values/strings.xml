@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PizzaSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">Pizza name...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Pizza name not saved because it is empty.</string>
+</resources>

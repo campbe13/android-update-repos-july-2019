@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Adapter w Context Menu</string>
+    <string-array name="dog_names">
+        <item>Phydough</item>
+        <item>Walter</item>
+        <item>Sam</item>
+        <item>Rex</item>
+        <item>Finney</item>
+        <item>Cosmo</item>
+        <item>Guiness</item>
+        <item>Daisy</item>
+        <item>Beeker</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MenusOptionsPopup</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Hit the Menu button or the 3 hamburgers. Whichever shows.</string>
+    <string name="instructions2">Grover Launches a Pop Up Menu.</string>
+    <string name="instractivity2">Grover menu not implemented in this activity.</string>
+    <string name="dogs">Dogs</string>
+    <string name="bigdogs">Big Dogs</string>
+    <string name="littledogs">Little Dogs</string>
+    <string name="cats">Cats</string>
+    <string name="chickens">Chickens</string>
+    <string name="pigs">Pigs</string>
+    <string name="crickets">Crickets</string>
+    <string name="stopsound">Maybe stop the sound</string>
+    <string name="newactivity">Launch New Activity</string>
+    <string name="shutup">QUIET!</string>
+    <string name="lion">Lion</string>
+    <string name="tiger1">Tiger</string>
+    <string name="tiger2">Tiger scary</string>
+    <string name="cathiss">Hiss</string>
+    <string name="cat">Meow</string>
+    <string name="sound_credits">" Sounds courtesy of: http://www.acoustica.com/files/aclooplib/Sound%20Effects and http://www.soundboard.com/sb/The_Muppets_Sounds</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/buttonThread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonOnClickThread"
+        android:text="@string/threadex" />
+
+    <Button
+        android:id="@+id/buttonInUIThread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonOnClickInUIThread"
+        android:text="@string/nothread" />
+
+    <Button
+        android:id="@+id/buttonAsync"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="buttonOnClickAsync"
+        android:text="@string/asyncex" />
+
+</LinearLayout>

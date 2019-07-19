@@ -1,0 +1,25 @@
+ To run this code on an AVD:
+
+ 1 create a small file:
+    a. shell into the device  adb shell
+    b. ls / >  /sdcard/ascii.txt
+    c. run the app
+    d. watch the log adb logcat -s MTHREAD
+    note that the I/O will probably finish before you can page through any of it
+
+ 2 create a large file:
+   a. shell into the device  adb sh
+   b. ls -lR / >  /sdcard/ascii.txt
+   c. run the app
+   d. watch the log adb logcat -s MTHREAD
+   note that the I/O will probably continue in the background
+   as you are paging through the file
+
+To run this code on a non-rooted device:
+
+Download from this directory:
+
+Small file:
+asciismall.txt   (rename to ascii.txt)
+
+asciilarge.txt   (rename to ascii.txt)

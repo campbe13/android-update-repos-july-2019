@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello, welcome to  My Activity Lifecyle and State Demo</string>
+    <string name="dialog_message">CSIS is watching you!  Alert dialogue, does not change state.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="app_name">MyActivityLifeCycle</string>
+    <string name="kill">Kill</string>
+    <string name="count">Count</string>
+    <string name="newActivity">New Activity</string>
+    <string name="newdialogue">Alert Dialogue</string>
+    <string name="rotatescreen">Rotate Screen</string>
+    <string name="messagemain">This is the main activity, no state is saved.  Hit count a couple of times, then rotate you lose the count (TextView) but not the EditText.  However if you launch another activity, then return, you will see that Android saves the state of all Views with an id. To see the lifecycle callbacks use: <i>adb logcat -s LIFECYC</i></string> 
+    <string name="messageactivity2">This is the activity2, counter state is saved.  If you rotate you restore the count and android saves the EditText.  However if you kill it you reset everything when you return. To see the lifecycle callbacks use: <i>adb logcat -s LIFECYC2</i></string> 
+</resources>

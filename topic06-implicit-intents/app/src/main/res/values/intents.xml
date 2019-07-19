@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="intents">
+        <item>Open Browser: smbc</item>
+        <item>Call Someone: fake number</item>
+        <item>Dial: fake number</item>
+        <item>Show Map: Dawson lat and long</item>
+        <item>Search on Map: Paris</item>
+        <item>Take picture</item>
+        <item>Show contacts</item>
+        <item>Edit first contact</item>
+        <item>Set Alarm: 15min nap</item>
+    </string-array>
+
+</resources>

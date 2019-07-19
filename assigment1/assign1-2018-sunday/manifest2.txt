@@ -1,0 +1,25 @@
+==> android_tic_tac_toe/app/src/main/AndroidManifest.xml <==
+==> android-tic-tac-toe/app/src/main/AndroidManifest.xml <==
+==> laraandhenry-droidproject2018/app/src/main/AndroidManifest.xml <==
+==> same2benevd/app/src/main/AndroidManifest.xml <==
+==> same2moe1998/app/src/main/AndroidManifest.xml <==
+==> samekajal/app/src/main/AndroidManifest.xml <==
+==> samekhandragon/app/src/main/AndroidManifest.xml <==
+==> samethomaso/app/src/main/AndroidManifest.xml <==
+==> tictactoeteamb/app/src/main/AndroidManifest.xml <==
+==> tttandreimihail/app/src/main/AndroidManifest.xml <==
+==> tttandroid/app/src/main/AndroidManifest.xml <==
+==> tttdannyaustin/app/src/main/AndroidManifest.xml <==
+==> tttdiegosammy/app/src/main/AndroidManifest.xml <==
+==> ttt-gabrielacaohoang/app/src/main/AndroidManifest.xml <==
+==> tttisaacneilshirin/app/src/main/AndroidManifest.xml <==
+==> tttjohnnyalpha/app/src/main/AndroidManifest.xml <==
+==> tttniv_quan/app/src/main/AndroidManifest.xml <==
+==> tttyehoshuastanislav/app/src/main/AndroidManifest.xml <==
+android-tictactoe
+samekwan.s
+samemanzg
+samezhijie
+tttandroid
+TTTJamesDaniel
+tttnicholasalexander

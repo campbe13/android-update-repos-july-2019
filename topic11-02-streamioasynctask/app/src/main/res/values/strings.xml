@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">StreamIO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help">Help?</string>
+    <string name="aboutText"> " About This app:
+/*
+ * This code is an example of doing I/O in a background thread
+ * using AsyncTask
+ * remember AsyncTask is good for fairly short running tasks
+ * anything long running Java Threads are better.
+ * 
+ *  The I/O done here is to read a file from the Android SD card
+ *  path: /sdcard/ 
+ *  
+ *  To run this code: 
+ *  
+ *  1 create a small file: 
+ *  a. shell into the device  adb shell
+ *  b. ls / >  /sdcard/ascii.txt
+ *  c. run the app
+ *  d. watch the log adb logcat -s MTHREAD
+ *  note that the I/O will probably finish before you can page through any of it
+ *  
+ *  2 create a large file: 
+ *  a. shell into the device  adb shell
+ *  b. ls -lR / >  /sdcard/ascii.txt
+ *  c. run the app
+ *  d. watch the log adb logcat -s MTHREAD
+ *  note that the I/O will probably continue in the background 
+ *  as you are paging through the file 
+ *  
+ */" </string>
+    <string name="title_activity_multi_thread">MultiThread</string>
+
+</resources>

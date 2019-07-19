@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/kermit" android:title="Kermit"></item>
+    <item android:id="@+id/piggy" android:title="Miss Piggy"></item>
+    <item android:id="@+id/furrmenu" android:title="Furry Muppets">
+        <menu>
+            <item android:id="@+id/cookie" android:title="Cookie Monster"/>
+            <item android:id="@+id/fozzie" android:title="Fozzie"/>
+        </menu>
+    </item>
+</menu>

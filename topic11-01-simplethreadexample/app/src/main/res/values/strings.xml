@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Async Example</string>
+    <string name="threadex">Java Thread Example</string>
+    <string name="asyncex">AsyncTask Example</string>
+    <string name="nothread">All Done on UI Thread</string>
+    <string name="app_nameJava">Simple Java Thread Example</string>
+        <string name="app_nameUI">Simple UI Thread Example</string>
+    <string name="javathread">Using Java Thread, in the Runable, uses Android SystemClock to sleep 500ms and updates the UI thread using View.post()</string>
+    <string name="asynctaskthread">Using AsyncTask and its lifecycle methods: publishProgress() invoked from doInBackground() causes  onProgressUpdate() to be invoked.
+        onProgressUpdate() runs in fg so can update the UI here. </string>
+
+</resources>

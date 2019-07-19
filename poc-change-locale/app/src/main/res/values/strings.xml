@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChangeLocale</string>
+    <string name="language">Language english</string>
+    <string name="button">Set Language</string>
+    <string name="hint">enter language (fr/en/it/es)</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="german">German</string>
+    <string name="italian">Italian</string>
+    <string name="spanish">Spanish</string>
+</resources>

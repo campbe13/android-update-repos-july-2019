@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DatabaseActivity!</string>
+    <string name="app_name">Database</string>
+    <string name="insert_ok">Insert Done</string>
+    <string name="delete">Delete</string>
+    <string name="thirtytitle">"Below you see all the students that have 30% in any course"</string>
+
+</resources>

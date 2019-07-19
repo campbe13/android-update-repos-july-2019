@@ -1,0 +1,118 @@
+2018-10-13
+2018-10-13
+cloning git@gitlab.com:kwan.s/tictactoe.git into assign1-2018
+cloning git@gitlab.com:DesJC/android-tictactoe.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/android-tictactoe/.git/
+cloning git@gitlab.com:morrilet/tttandroid.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttandroid/.git/
+cloning git@gitlab.com:thomas-ouellette/tictactoe.git into assign1-2018
+cloning git@gitlab.com:yankolo/android-tic-tac-toe.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/android-tic-tac-toe/.git/
+cloning git@gitlab.com:khandragon/tictactoe.git into assign1-2018
+cloning git@gitlab.com:Roajr/TTTJamesDaniel.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/TTTJamesDaniel/.git/
+cloning git@gitlab.com:kajal09/tictactoe.git into assign1-2018
+cloning git@gitlab.com:iakimov_andrei/tttandreimihail.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttandreimihail/.git/
+cloning git@gitlab.com:Manz_G/tictactoe.git into assign1-2018
+cloning git@gitlab.com:1532483/tttdannyaustin.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttdannyaustin/.git/
+cloning git@gitlab.com:Zhijiec99/tictactoe.git into assign1-2018
+cloning git@gitlab.com:guevarasimon/tictactoeteamb.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tictactoeteamb/.git/
+cloning git@gitlab.com:benevd/tic-tac-toe.git into assign1-2018
+cloning git@gitlab.com:JohnnyLin.LYA/tttjohnnyalpha.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttjohnnyalpha/.git/
+cloning git@gitlab.com:moe1998/tic-tac-toe.git into assign1-2018
+cloning git@gitlab.com:Mosh_La/laraandhenry-droidproject2018.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/laraandhenry-droidproject2018/.git/
+cloning git@gitlab.com:Ilia_g/android_tic_tac_toe.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/android_tic_tac_toe/.git/
+cloning git@gitlab.com:Apanian25/tttnicholasalexander.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttnicholasalexander/.git/
+cloning git@gitlab.com:PatelN/tttisaacneilshirin.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttisaacneilshirin/.git/
+cloning git@gitlab.com:YurchenkoSt/tttyehoshuastanislav.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttyehoshuastanislav/.git/
+cloning git@gitlab.com:chaoukis/tttdiegosammy.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttdiegosammy/.git/
+cloning git@gitlab.com:RuedaGabriela/ttt-gabrielacaohoang.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/ttt-gabrielacaohoang/.git/
+cloning git@gitlab.com:abec_niv/tttniv_quan.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttniv_quan/.git/
+2018-10-14
+cloning git@gitlab.com:kwan.s/tictactoe.git into assign1-2018
+fatal: destination path 'samekwan.s' already exists and is not an empty directory.
+cloning git@gitlab.com:thomas-ouellette/tictactoe.git into assign1-2018
+fatal: destination path 'samethomaso' already exists and is not an empty directory.
+cloning git@gitlab.com:khandragon/tictactoe.git into assign1-2018
+fatal: destination path 'samekhandragon' already exists and is not an empty directory.
+cloning git@gitlab.com:kajal09/tictactoe.git into assign1-2018
+fatal: destination path 'samekajal' already exists and is not an empty directory.
+cloning git@gitlab.com:Manz_G/tictactoe.git into assign1-2018
+fatal: destination path 'samemanzg' already exists and is not an empty directory.
+cloning git@gitlab.com:Zhijiec99/tictactoe.git into assign1-2018
+fatal: destination path 'samezhijie' already exists and is not an empty directory.
+cloning git@gitlab.com:benevd/tic-tac-toe.git into assign1-2018
+fatal: destination path 'same2benevd' already exists and is not an empty directory.
+cloning git@gitlab.com:moe1998/tic-tac-toe.git into assign1-2018
+fatal: destination path 'same2moe1998' already exists and is not an empty directory.
+2018-10-14
+cloning git@gitlab.com:DesJC/android-tictactoe.git
+cloning git@gitlab.com:morrilet/tttandroid.git
+cloning git@gitlab.com:yankolo/android-tic-tac-toe.git
+cloning git@gitlab.com:Roajr/TTTJamesDaniel.git
+cloning git@gitlab.com:iakimov_andrei/tttandreimihail.git
+cloning git@gitlab.com:1532483/tttdannyaustin.git
+cloning git@gitlab.com:guevarasimon/tictactoeteamb.git
+cloning git@gitlab.com:JohnnyLin.LYA/tttjohnnyalpha.git
+cloning git@gitlab.com:Mosh_La/laraandhenry-droidproject2018.git
+cloning git@gitlab.com:Ilia_g/android_tic_tac_toe.git
+cloning git@gitlab.com:Apanian25/tttnicholasalexander.git
+cloning git@gitlab.com:PatelN/tttisaacneilshirin.git
+cloning git@gitlab.com:YurchenkoSt/tttyehoshuastanislav.git
+cloning git@gitlab.com:chaoukis/tttdiegosammy.git
+cloning git@gitlab.com:RuedaGabriela/ttt-gabrielacaohoang.git
+cloning git@gitlab.com:abec_niv/tttniv_quan.git
+2018-10-15
+2018-10-15
+cloning git@gitlab.com:kwan.s/tictactoe.git into assign1-2018
+cloning git@gitlab.com:DesJC/android-tictactoe.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/android-tictactoe/.git/
+cloning git@gitlab.com:morrilet/tttandroid.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttandroid/.git/
+cloning git@gitlab.com:thomas-ouellette/tictactoe.git into assign1-2018
+cloning git@gitlab.com:yankolo/android-tic-tac-toe.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/android-tic-tac-toe/.git/
+cloning git@gitlab.com:khandragon/tictactoe.git into assign1-2018
+cloning git@gitlab.com:Roajr/TTTJamesDaniel.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/TTTJamesDaniel/.git/
+cloning git@gitlab.com:kajal09/tictactoe.git into assign1-2018
+cloning git@gitlab.com:iakimov_andrei/tttandreimihail.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttandreimihail/.git/
+cloning git@gitlab.com:1532483/tttdannyaustin.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttdannyaustin/.git/
+cloning git@gitlab.com:guevarasimon/tictactoeteamb.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tictactoeteamb/.git/
+cloning git@gitlab.com:JohnnyLin.LYA/tttjohnnyalpha.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttjohnnyalpha/.git/
+cloning git@gitlab.com:Manz_G/tictactoe.git into assign1-2018
+cloning git@gitlab.com:Zhijiec99/tictactoe.git into assign1-2018
+cloning git@gitlab.com:benevd/tic-tac-toe.git into assign1-2018
+cloning git@gitlab.com:moe1998/tic-tac-toe.git into assign1-2018
+cloning git@gitlab.com:Mosh_La/laraandhenry-droidproject2018.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/laraandhenry-droidproject2018/.git/
+cloning git@gitlab.com:Ilia_g/android_tic_tac_toe.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/android_tic_tac_toe/.git/
+cloning git@gitlab.com:Apanian25/tttnicholasalexander.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttnicholasalexander/.git/
+cloning git@gitlab.com:PatelN/tttisaacneilshirin.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttisaacneilshirin/.git/
+cloning git@gitlab.com:YurchenkoSt/tttyehoshuastanislav.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttyehoshuastanislav/.git/
+cloning git@gitlab.com:chaoukis/tttdiegosammy.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttdiegosammy/.git/
+cloning git@gitlab.com:RuedaGabriela/ttt-gabrielacaohoang.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/ttt-gabrielacaohoang/.git/
+cloning git@gitlab.com:abec_niv/tttniv_quan.git
+Initialized empty Git repository in /home/pcampbell/droid2018/assign1-2018/tttniv_quan/.git/

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    style="?android:attr/buttonBarStyle"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:textSize="@dimen/textsize"
+        android:gravity="center_horizontal"
+        android:text="@string/msg" />
+
+        <Button
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:layout_weight="10"
+            android:gravity="center_horizontal|center_vertical"
+            android:onClick="start"
+            android:text="Start" />
+
+<!--
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="80"
+        android:padding="10dp"
+        style="?android:attr/buttonBarButtonStyle"
+        android:orientation="horizontal">
+    -->
+        <Button
+            android:id="@+id/b1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="40"
+            android:textSize="@dimen/textsize"
+            android:textColor="@color/colorPrimaryDark"
+            android:color="@color/pishColour"
+            style="?android:attr/buttonBarButtonStyle"
+            android:text="@string/pish"
+            />
+        <Button
+            android:id="@+id/b2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="40"
+            android:textColor="@color/colorPrimaryDark"
+            android:color="@color/poshColour"
+            style="?android:attr/buttonBarButtonStyle"
+            android:textSize="@dimen/textsize"
+            android:text="@string/posh"
+            />
+</LinearLayout>

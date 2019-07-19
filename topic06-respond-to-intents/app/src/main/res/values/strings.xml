@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <string name="app_name">BestWebBrowser</string>
+    <string name="title">World\'s Best Web Browser</string>
+    <string name="error">WebViewFactory$MissingWebViewPackageException\n known error \n uninstall the app</string>
+</resources>

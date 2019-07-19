@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="urlmsg">Type a URL, any URL.</string>
+    <string name="app_name">HTTPGET</string>
+    <string name="xkcd.org">xkcd.org</string>
+    <string name="title_activity_http_example">HttpURLConnection GET Example</string>
+    <string name="explain">Type in a website name, with or without http:// I will retrieve and show you the page  in plain text, usually this would be in a WebView widget, not TextView.</string>
+
+</resources>

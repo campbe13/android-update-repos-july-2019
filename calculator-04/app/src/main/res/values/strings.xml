@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="add">Add</string>
+    <string name="subtr">Subtract</string>
+    <string name="mult">Multiply</string>
+    <string name="div">Divide</string>
+    <string name="enter_hint">Enter a number</string>
+    <string name="country">England</string>
+    <string name="result_initial">The result will display here</string>
+    <string name="error_no_geo">no action defined for geo intent</string>
+</resources>

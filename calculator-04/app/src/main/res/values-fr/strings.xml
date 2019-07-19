@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculatrice Simple</string>
+    <string name="add">Ajouter</string>
+    <string name="div">Diviser</string>
+    <string name="enter_hint">Entrez un numéro</string>
+    <string name="mult">Multiplier</string>
+    <string name="subtr">Soustraire</string>
+    <string name="country">France</string>
+    <string name="result_initial">La réponse s\'affichera ici</string>
+    <string name="error_no_geo">aucune action définie pour l\'intent geo</string>
+</resources>

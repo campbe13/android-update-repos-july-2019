@@ -1,0 +1,9 @@
+<resources>
+    <string name="language">Lingua italiana</string>
+    <string name="button">imposta la lingua</string>
+    <string name="english">Inglese</string>
+    <string name="french">francese</string>
+    <string name="german">Tedesco</string>
+    <string name="italian">italiano</string>
+    <string name="spanish">spagnolo</string>
+</resources>
