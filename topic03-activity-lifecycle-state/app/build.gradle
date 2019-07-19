@@ -8,11 +8,7 @@ android {
         applicationId "cs518.sample.activityLifecycle"
         minSdkVersion 22
         targetSdkVersion 29
-        compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_5
-            targetCompatibility JavaVersion.VERSION_1_5
         }
-    }
 
     buildTypes {
         release {
