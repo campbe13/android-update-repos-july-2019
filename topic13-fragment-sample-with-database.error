@@ -1,0 +1,33 @@
+/home/tricia/Android518-2018/topic13-fragment-sample-with-database/app/src/main/java/com/codepath/mypizza/data/Pizza.java:16: error: Cannot find setter for field.
+    private int primaryKey;
+                ^
+/home/tricia/Android518-2018/topic13-fragment-sample-with-database/app/src/main/java/com/codepath/mypizza/data/Pizza.java:16: error: Cannot find setter for field.
+    private int primaryKey;
+                ^
+/home/tricia/Android518-2018/topic13-fragment-sample-with-database/app/src/main/java/com/codepath/mypizza/data/Pizza.java:46: error: Cannot find getter for field.
+        private String pizzaName;
+                       ^
+/home/tricia/Android518-2018/topic13-fragment-sample-with-database/app/src/main/java/com/codepath/mypizza/data/Pizza.java:46: error: Cannot find setter for field.
+        private String pizzaName;
+                       ^
+/home/tricia/Android518-2018/topic13-fragment-sample-with-database/app/src/main/java/com/codepath/mypizza/data/PizzaDao.java:26: warning: The query returns some columns [primaryKey, text] which are not use by com.codepath.mypizza.data.Pizza.PizzaName. You can use @ColumnInfo annotation on the fields to specify the mapping.  You can suppress this warning by annotating the method with @SuppressWarnings(RoomWarnings.CURSOR_MISMATCH). Columns returned by the query: primaryKey, pizza, text. Fields in com.codepath.mypizza.data.Pizza.PizzaName: pizza.
+    LiveData<List<Pizza.PizzaName>> getAllPizzaNames();
+                                    ^
+/home/tricia/Android518-2018/topic13-fragment-sample-with-database/app/src/main/java/com/codepath/mypizza/data/PizzaDatabase.java:23: warning: Schema export directory is not provided to the annotation processor so we cannot export the schema. You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false.
+public abstract class PizzaDatabase extends RoomDatabase {
+                ^
+4 errors
+2 warnings
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugJavaWithJavac'.
+> Compilation failed; see the compiler error output for details.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 8s

@@ -11,8 +11,8 @@ import android.support.annotation.NonNull;
  */
 @Entity(tableName = "pizza_table")
 public class Pizza {
-    @PrimaryKey(autoGenerate = true)
     @NonNull
+    @PrimaryKey(autoGenerate = true)
     private int primaryKey;
     @NonNull
     @ColumnInfo(name = "pizza")
@@ -24,6 +24,10 @@ public class Pizza {
     public Pizza(@NonNull String pizzaName, @NonNull String pizzaText) {
         this.pizzaName = pizzaName;
         this.pizzaText = pizzaText;
+    }
+
+    public int getPrimaryKey() {
+        return this.primaryKey;
     }
 
     public String getPizzaName() {
@@ -41,4 +45,5 @@ public class Pizza {
         @ColumnInfo(name = "pizza")
         private String pizzaName;
     }
+
 }

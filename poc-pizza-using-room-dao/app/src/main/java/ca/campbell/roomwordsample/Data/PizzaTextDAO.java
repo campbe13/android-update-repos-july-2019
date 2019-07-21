@@ -20,5 +20,5 @@ public interface PizzaTextDAO {
     void deleteAll();
 
     @Query("select * from " + TABLE + " where textId == :textId limit 1")
-    PizzaText  getById(int textId);}
+    PizzaText  getById(int textId);
 }

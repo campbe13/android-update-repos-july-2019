@@ -29,7 +29,7 @@ public class PizzaMenuFragment extends Fragment {
   @Override
   public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-    LiveData<List<Pizza.PizzaName> pizzaMenu;
+    LiveData<List<Pizza.PizzaName>> pizzaMenu;
     itemsAdapter = new ArrayAdapter<Pizza.PizzaName>(getContext(), R.recyclerview_item.xml, Pizza.pizzaMenu);
     //itemsAdapter = new ArrayAdapter<String>(getContext(), android.R.layout.simple_list_item_1, Pizza.pizzaMenu);
   }
