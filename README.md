@@ -3,6 +3,8 @@
 ## compiled
 ## not installed, not tested
 
+NO KOTLIN in this repo
+
 Only these two are not yet compiling:
 * codelabs-tut-room-persistence
 * topic13-fragment-sample-with-database
